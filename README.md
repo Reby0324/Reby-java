@@ -14,7 +14,7 @@ rrororororoororor<br>
 
 [yahoo](https://tw.yahoo.com/)
 
-[講義](Rebu-java/print.pdf)
+[講義](doc/print.pdf)
 
 
 

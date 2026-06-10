@@ -17,7 +17,7 @@ rrororororoororor<br>
 [講義](doc/print.pdf)
 
 
-![bb](png/Happily, me_.png)
+![bb](png/Happily png)
 
 [demo](https://youtu.be/Kmgo00avvEw?si=gp7aEQD5FZfE7wBJ)
 

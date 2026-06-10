@@ -14,9 +14,9 @@ rrororororoororor<br>
 
 [yahoo](https://tw.yahoo.com/)
 
-[講義](doc/Happliy.png)
+[講義](doc/print.pdf)
 
-![bb](png/R.jpg)
+![bb](png/Happily.png)
 
 [demo](https://youtu.be/Kmgo00avvEw?si=gp7aEQD5FZfE7wBJ)
 
